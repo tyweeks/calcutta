@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>calcutta</AssemblyName>
+    <RootNamespace>Calcutta</RootNamespace>
+    <Description>NCAA Tournament Calcutta Auction Bid Advisor — uses KenPom ratings to compute expected values and recommended bids.</Description>
+  </PropertyGroup>
+
+</Project>
