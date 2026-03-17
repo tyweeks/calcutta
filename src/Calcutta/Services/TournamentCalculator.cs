@@ -171,20 +171,17 @@ public class TournamentCalculator
     }
 
     /// <summary>
-    /// Builds the seed→position-within-region lookup.
+    /// Builds the seed→position-within-region lookup (0-based result array: index = seed−1).
     /// Standard NCAA bracket order: 1,16,8,9,5,12,4,13,6,11,3,14,7,10,2,15.
-    /// The index is (seed - 1); the value is the 0-based position within the 16-team region.
     /// </summary>
     private static int[] BuildSeedPositionMap()
     {
+        // seedOrder[pos] = the seed number that occupies bracket position pos (0-based within a region).
         int[] seedOrder = [1, 16, 8, 9, 5, 12, 4, 13, 6, 11, 3, 14, 7, 10, 2, 15];
-        var map = new int[17]; // map[seed] = position
-        for (int pos = 0; pos < seedOrder.Length; pos++)
-            map[seedOrder[pos]] = pos;
-        // Return 1-based indexing array (index 0 = seed 1, index 15 = seed 16).
+        // result[seed - 1] = bracket position of that seed within the region.
         var result = new int[16];
-        for (int seed = 1; seed <= 16; seed++)
-            result[seed - 1] = map[seed];
+        for (int pos = 0; pos < seedOrder.Length; pos++)
+            result[seedOrder[pos] - 1] = pos;
         return result;
     }
 
