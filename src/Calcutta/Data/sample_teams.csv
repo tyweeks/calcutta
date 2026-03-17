@@ -1,0 +1,65 @@
+Team,Seed,Region,AdjEM,AdjO,AdjD
+Duke,1,East,31.2,123.4,92.2
+Alabama,2,East,24.7,119.8,95.1
+Kentucky,3,East,21.3,117.6,96.3
+Purdue,4,East,20.1,116.4,96.3
+Gonzaga,5,East,17.8,118.2,100.4
+Creighton,6,East,15.2,115.3,100.1
+Texas,7,East,12.6,113.8,101.2
+Maryland,8,East,10.4,112.1,101.7
+West Virginia,9,East,7.8,109.4,101.6
+Boise State,10,East,5.2,107.3,102.1
+Iowa State,11,East,3.1,105.6,102.5
+Oregon,12,East,1.4,104.2,102.8
+Grand Canyon,13,East,-3.8,100.5,104.3
+Vermont,14,East,-7.2,97.4,104.6
+Colgate,15,East,-14.1,93.2,107.3
+Norfolk State,16,East,-22.8,87.1,109.9
+Kansas,1,West,29.8,122.1,92.3
+Arizona,2,West,25.3,120.4,95.1
+Baylor,3,West,22.1,118.3,96.2
+Tennessee,4,West,19.6,115.9,96.3
+Saint Mary's,5,West,16.4,116.8,100.4
+Texas Tech,6,West,14.1,114.2,100.1
+Michigan State,7,West,11.8,112.7,100.9
+Florida,8,West,9.3,110.6,101.3
+Oklahoma,9,West,6.7,108.2,101.5
+Utah State,10,West,4.8,106.9,102.1
+Providence,11,West,2.6,104.8,102.2
+Colorado State,12,West,0.2,103.1,102.9
+Charleston,13,West,-4.9,99.7,104.6
+Iona,14,West,-8.1,96.8,104.9
+Montana State,15,West,-15.4,92.1,107.5
+Howard,16,West,-24.1,86.3,110.4
+Houston,1,South,30.5,121.8,91.3
+Marquette,2,South,26.1,120.9,94.8
+Xavier,3,South,21.8,117.9,96.1
+Indiana,4,South,18.4,115.3,96.9
+Miami,5,South,16.2,116.1,99.9
+Iowa,6,South,13.7,113.6,99.9
+Texas A&M,7,South,11.2,112.2,101.0
+Memphis,8,South,8.7,109.9,101.2
+Penn State,9,South,6.2,107.6,101.4
+Auburn,10,South,4.1,105.9,101.8
+Pittsburgh,11,South,2.2,104.3,102.1
+Drake,12,South,-0.5,102.8,103.3
+Kent State,13,South,-5.6,99.2,104.8
+Louisiana,14,South,-9.2,95.9,105.1
+Princeton,15,South,-16.8,91.4,108.2
+Texas Southern,16,South,-25.4,85.6,111.0
+Connecticut,1,Midwest,28.6,121.3,92.7
+UCLA,2,Midwest,24.2,119.1,94.9
+Villanova,3,Midwest,20.7,117.2,96.5
+Arkansas,4,Midwest,17.9,114.8,96.9
+San Diego State,5,Midwest,15.7,115.4,99.7
+TCU,6,Midwest,13.2,113.1,99.9
+Missouri,7,Midwest,10.8,111.8,101.0
+Rutgers,8,Midwest,8.1,109.3,101.2
+Illinois,9,Midwest,5.6,107.1,101.5
+Boise State,10,Midwest,3.3,105.4,102.1
+Arizona State,11,Midwest,1.2,103.7,102.5
+VCU,12,Midwest,-0.9,102.4,103.3
+Furman,13,Midwest,-6.3,98.7,105.0
+Kennesaw State,14,Midwest,-10.1,95.2,105.3
+Vermont,15,Midwest,-17.5,90.8,108.3
+Farleigh Dickinson,16,Midwest,-26.7,84.9,111.6
